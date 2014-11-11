@@ -1,0 +1,15 @@
+{
+  "name": "workflow-project",
+  "version": "0.0.1",
+  "description": "A test project to try out a gulp.js, Git, and Browserify workflow - training from Lynda.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Rachel Engle",
+  "license": "ISC"
+}
